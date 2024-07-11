@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<registration>
+	<tool id="sakai.samplewebapp" 
+		title="Tool Samples" 
+		description="This product provides sample source codes to make web application to run on both moded Tomcat Standalone and MyWorkspace/Sakai Platform.">
+
+		<category name="course" />
+      	<category name="project" />
+
+		<configuration name="functions.require" /> 
+		
+    </tool>
+</registration>
+
